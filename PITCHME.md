@@ -33,6 +33,22 @@
 
 ## Sharable Code
 
++++
+
+### Frankenstein Style
+
+![frakenstein](assets/image/frankenstein.jpg)
+
+[frakenstein]: assets/image/frankenstein.jpg "Image From https://www.newyorker.com/magazine/2018/02/12/the-strange-and-twisted-life-of-frankenstein"
+
++++
+
+### Collective-Ownership
+
+![Team Works](assets/image/teamworks.png)
+
+[teamworks]: assets/image/teamworks.png "Image from https://www.womeninbiznetwork.com/50-collaboration-tools-for-small-business-owners-to-make-your-life-easier/"
+
 ---
 
 ## DevOps

@@ -4,6 +4,52 @@
 
 ---
 
+## Dev some app is easy !
+
+---
+
+## What's the concerns about app dev
+
+@ul
+* Mantainable Code
+* Shareable Code
+* Scalability (Non-Functional Requirements)
+@ulend
+
++++
+
+### Non-Functional Requirements
+
+* Scalability
+* Security
+* Privacy
+* Reliability
+
+---
+
+## Maintainable Code
+
+---
+
+## Sharable Code
+
+---
+
+## DevOps
+
+---
+
+## Dev Tools
+
+@ul
+* IDE
+* Programming Languages
+* Source Code Refactoring Tools
+* etc.
+@ulend
+
+---
+
 ## Tips!
 
 <br>
